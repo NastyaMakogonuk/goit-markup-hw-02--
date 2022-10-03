@@ -57,8 +57,7 @@
   .contacts-link:focus,
   .nav-link.current,
   .address-link:hover,
-  .address-link:focus,
-  .address-list {
+  .address-link:focus {
     color: var(--accent-color);
   }
   
