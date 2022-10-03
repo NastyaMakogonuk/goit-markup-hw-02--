@@ -203,7 +203,6 @@
   
     color: var(--primary-white-color);
   }
-  
   .visually-hidden {
     position: absolute;
       white-space: nowrap;
